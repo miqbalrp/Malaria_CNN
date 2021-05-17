@@ -41,6 +41,9 @@ Model training and validation consists of 10 epochs where the data is generated 
 
 ## 3. Model Evaluation ([notebook](https://github.com/miqbalrp/Malaria_CNN/blob/main/notebook/3.%20Evaluation.ipynb))
 Using 200 test data, I did a model evaluation and got an excellent accuracy of 99%. In the confusion matrix we can see that there is only 1 misclassified image.
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/38918617/118419381-022a6c00-b6e6-11eb-8736-3f70af598ad6.png">
+</p>
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/38918617/118418882-7106c580-b6e4-11eb-846a-aa0ba6e02195.png">
