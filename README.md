@@ -27,9 +27,9 @@ From the sample data shown above we can see at a glance that the images have dif
 As expected, the data varied in dimensions and were distributed with the mean around (130.130). This figure will be used to standardize dimensions before the data is used for model training.
 
 ## 2. Model Building ([notebook](https://github.com/miqbalrp/Malaria_CNN/blob/main/notebook/2.%20Image%20Augmentation%20and%20Modelling.ipynb))
-The model used is inspired by the LeNet-5 architecture developed in 1998 to classify handwritten images from the MNIST dataset. This model is a very basic convolutional neural network architecture consisting of 7 layers, namely 3 convolutional layers, 2 subsampling layers and 2 fully connected layers (for more detailed: [Understanding and Implementing LeNet-5 CNN Architecture (Deep Learning)](https://towardsdatascience.com/understanding-and-implementing-lenet-5-cnn-architecture-deep-learning-a2d531ebc342)).<\br>
+The model used is inspired by the LeNet-5 architecture developed in 1998 to classify handwritten images from the MNIST dataset. This model is a very basic convolutional neural network architecture consisting of 7 layers, namely 3 convolutional layers, 2 subsampling layers and 2 fully connected layers (for more detailed: [Understanding and Implementing LeNet-5 CNN Architecture (Deep Learning)](https://towardsdatascience.com/understanding-and-implementing-lenet-5-cnn-architecture-deep-learning-a2d531ebc342)).</br>
 
-Some adjustments were made to this model because the LeNet-5 was originally used to detect 28x28 grayscale handwritten images and had 10 classes (numbers 0-9). In general, the model used can be seen in the following summary. </br>
+Some adjustments were made to this model because the LeNet-5 was originally used to detect 28x28 grayscale handwritten images and had 10 classes (numbers 0-9). In general, the model used can be seen in the following summary.
 
 ![image](https://user-images.githubusercontent.com/38918617/118418338-461b7200-b6e2-11eb-8d06-00fb546046c6.png)
 
