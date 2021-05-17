@@ -1,6 +1,6 @@
 # Malaria_CNN
 
-My wife is a researcher at an institute of molecular biology research in Indonesia. One of her studies is related to malaria and she has been in Timika, Papua for about 5 months for patients who are indicated to have had malaria.</br> 
+My wife is a researcher at an research institute of molecular biology in Indonesia. One of her studies is related to malaria and she has been in Timika, Papua for about 5 months for patients who are indicated to have had malaria.</br> 
 
 Therefore, since I first saw the Malaria Cell Image dataset in Kaggle (taken from: [LHNCBC](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets)), I was interested and tried confirm whether she is familiar with this image or not. Without waiting long, my wife immediately lectured me about how a cell was said to be infected with Malaria and it turned out that there were several stages (ring, trophozoite, schizont, etc).</br> 
 
